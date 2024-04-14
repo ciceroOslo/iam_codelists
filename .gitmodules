@@ -1,0 +1,12 @@
+[submodule "submodules/iamcompact-nomenclature"]
+	path = submodules/iamcompact-nomenclature
+	url = https://github.com/ciceroOslo/iamcompact-nomenclature.git
+	branch = main
+[submodule "submodules/common-definitions"]
+	path = submodules/common-definitions
+	url = https://github.com/IAMconsortium/common-definitions.git
+	branch = main
+[submodule "submodules/openentrance"]
+	path = submodules/openentrance
+	url = https://github.com/openENTRANCE/openentrance.git
+	branch = main
